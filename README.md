@@ -1,4 +1,3 @@
-# Bài 7
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
